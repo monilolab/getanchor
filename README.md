@@ -1,2 +1,2 @@
 # getanchor
-Getanchor Module for Monilo Payments
+GetAnchor Module for Monilo Payments
